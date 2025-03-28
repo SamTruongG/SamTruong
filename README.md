@@ -1,1 +1,1 @@
-# Hey👋, it's Louis "leejhlouis", Electrical Engineering/ Computer Science at Griffith University
+# Hey👋, it's Sam "SamTruong", Electrical Engineering/ Computer Science at Griffith University
