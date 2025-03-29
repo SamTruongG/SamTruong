@@ -7,3 +7,5 @@
 Here are some technologies that I am efficient in:
 
 I want to change this so that it is reflected on new branch
+
+Help me learn how to use github
